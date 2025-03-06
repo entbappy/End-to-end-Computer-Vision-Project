@@ -74,8 +74,6 @@ def predictLive():
 
 
 
-
-
 if __name__ == "__main__":
     clApp = ClientApp()
     app.run(host=APP_HOST, port=APP_PORT)
